@@ -1,0 +1,3 @@
+class RecurringItem < ApplicationRecord
+
+end
